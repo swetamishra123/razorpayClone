@@ -2,7 +2,7 @@
 
 A clone of the Razorpay payment gateway integration for online transactions. This project aims to replicate the functionality of Razorpay for educational and learning purposes.
 
-![Demo GIF]()
+![Demo GIF](https://github.com/swetamishra123/razorpayClone/blob/master/video.gif)
 
 ## Table of Contents
 - [Overview](#overview)
