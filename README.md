@@ -31,3 +31,37 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/razorpay-clone.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd razorpay-clone
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+Open your web browser and access the project at http://localhost:3000.
+
+Usage
+Open the project in your web browser.
+Simulate payment by filling in the necessary details.
+Follow the prompts to complete the payment process.
+Check the payment status to see the result.
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them with descriptive messages.
+Push your branch to your fork.
+Create a pull request to merge your changes into the main project.
+Please ensure your code follows best practices and includes appropriate documentation.
+
+License
+This project is licensed under the MIT License.
