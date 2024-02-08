@@ -17,7 +17,6 @@ A clone of the Razorpay payment gateway integration for online transactions. Thi
 This Razorpay Clone project is a simplified version of the popular Razorpay payment gateway. It demonstrates how online payment processing works by simulating key features and functionalities.
 
 ## Features
-
 - **Payment Processing**: Simulate payment processing with essential steps.
 - **User Interface**: User-friendly interface for payment initiation.
 - **Payment Status**: View the payment status after the transaction.
